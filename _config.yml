@@ -1,7 +1,8 @@
 # Site settings
 title:          Seek the Joy
 description:    "teaching, teacher education, and why it matters"
-url:            https://ericlaurits.github.io/rain
+url:            "https://ericlaurits.github.io/rain"
+baseurl:        "/rain"
 
 # Author
 author:
